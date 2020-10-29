@@ -1,4 +1,5 @@
 // app-routing.module.ts
+// Defining the Tab link route to load the Application Routes
 import { NgModule } from '@angular/core';
 import { PreloadAllModules, RouterModule, Routes } from '@angular/router';
 
